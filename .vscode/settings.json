@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "camejadb",
+            "dialect": "MariaDB",
+            "name": "cameja",
+            "password": "12345678",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}
